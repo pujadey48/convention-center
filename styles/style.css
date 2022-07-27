@@ -1,0 +1,64 @@
+/* .navbar-brand{
+    font-size: 16px;
+} */
+.nav-container{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.header-details{
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.header-details p{
+    font-size: 12px;
+}
+.btn{
+    background-color: white;
+    color: #3F87F5;
+
+}
+/* second section start  */
+.btn-explore-our-album{
+    color: #FFFFFF;
+    background-color: #3F87F5;
+}
+.position-card{
+    position: absolute;
+}
+.toast-size{
+    width: 263px;
+    height: 42px;
+    
+}
+/* third section  */
+.paragraph-margin{
+    /* margin: 0; */
+    color: #848199;
+    font-size: 15px;
+}
+.fa-square-check{
+    color: #3F87F5;
+}
+.card-btn{
+    background-color: #f5e8f0;
+    mix-blend-mode: normal;
+    color: #3F87F5;
+    font-weight: 700;
+    font-size: 15px;
+    /* opacity: 0.1; */
+    border-radius: 24px;
+    
+}
+.card-width{
+    width: 220px;
+}
+.third-card{
+    width: 220px;
+    height: 480px;
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+}
+.start1{
+    left: 80%;
+}
